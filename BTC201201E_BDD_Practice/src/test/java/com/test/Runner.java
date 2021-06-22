@@ -8,6 +8,9 @@
 //@RunWith(Cucumber.class)
 //@CucumberOptions(features="C:\\Users\\shafi\\eclipse-workspace\\MyFirstJavaProject\\BTC201201E_BDD_Practice\\Target.feature")
 //
-//public class Runner {
-//
-//}
+public class Runner {
+
+	
+	
+	
+}
